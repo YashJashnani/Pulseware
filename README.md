@@ -1,4 +1,4 @@
-# Pulseware — Heart Rhythm & Health Prediction
+# Pulseware: Heart Rhythm & Health Prediction
 
 Pulseware is a decision-support prototype that helps you understand your heart rhythm from everyday wearable data. It learns what is normal for *you* from your history and flags new readings that look different from your usual pattern. It is not a medical device.
 
